@@ -1,1 +1,7 @@
 env/
+*.zip
+*.tar
+Yelp JSON/yelp_dataset/yelp_academic_dataset_checkin.json
+Yelp JSON/yelp_dataset/yelp_academic_dataset_review.json
+Yelp JSON/yelp_dataset/yelp_academic_dataset_tip.json
+Yelp JSON/yelp_dataset/yelp_academic_dataset_user.json
