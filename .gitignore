@@ -2,3 +2,4 @@ env/
 *.zip
 *.tar
 Yelp JSON/
+labeled_places_pairs_metadata.json
