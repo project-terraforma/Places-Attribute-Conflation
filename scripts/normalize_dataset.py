@@ -72,8 +72,10 @@ us_ca_filter = (
     (sample_df["base_country"].isin(allowed_countries))
 )
 
-# Apply filter
+# Apply filter - keep the original index to preserve sample_idx
 sample_df_eval = sample_df[us_ca_filter].copy()
+# Preserve the original DataFrame index for sample_idx tracking
+sample_df_eval['sample_idx'] = sample_df_eval.index
 
 print(f"Filtered dataset size (US/CA only): {len(sample_df_eval)} rows")
 print(f"Removed {len(sample_df) - len(sample_df_eval)} rows")
@@ -233,9 +235,13 @@ def extract_and_normalize_categories(category_data):
     return []
 
 # Function to normalize a dataframe
-def normalize_sample_dataframe(df):
+def normalize_sample_dataframe(df, preserve_index=False):
     """Apply all normalization steps to a sample dataframe"""
     df = df.copy()
+    
+    # Store original index if needed for subset tracking
+    if preserve_index and 'sample_idx' not in df.columns:
+        df['sample_idx'] = df.index
     
     # Extract and normalize names
     print("\nExtracting and normalizing names...")
@@ -298,10 +304,17 @@ def normalize_sample_dataframe(df):
 
 # Normalize both datasets
 print("\n=== NORMALIZING FULL DATASET ===")
-sample_df = normalize_sample_dataframe(sample_df)
+sample_df = normalize_sample_dataframe(sample_df, preserve_index=False)
+# Add sample_idx to full dataset based on position
+sample_df.insert(0, 'sample_idx', range(len(sample_df)))
 
 print("\n=== NORMALIZING US/CA FILTERED DATASET ===")
-sample_df_eval = normalize_sample_dataframe(sample_df_eval)
+# Note: sample_idx was already preserved from the filter operation
+sample_df_eval = normalize_sample_dataframe(sample_df_eval, preserve_index=True)
+# Move sample_idx to the first column
+if 'sample_idx' in sample_df_eval.columns:
+    cols = ['sample_idx'] + [col for col in sample_df_eval.columns if col != 'sample_idx']
+    sample_df_eval = sample_df_eval[cols]
 
 # Show examples
 print("\n=== NAME NORMALIZATION EXAMPLES (from full dataset) ===")
