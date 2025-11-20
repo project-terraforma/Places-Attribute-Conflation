@@ -1,0 +1,362 @@
+sample_idx,sample_name,sample_city,sample_state,reason
+8,nextcare urgent care gastonia,gastonia,NC,no_match_above_threshold
+20,audio network,london,,no_match_above_threshold
+30,heartland mortgage - bobbie jo haggard,walla walla,WA,no_match_above_threshold
+33,women's health boutique,plano,TX,no_match_above_threshold
+41,signwriter,kalamazoo,MI,no_match_above_threshold
+45,viking sewing gallery,spring,TX,no_match_above_threshold
+51,solar guard utah,west valley city,UT,no_match_above_threshold
+62,kincaid at legacy,plano,TX,no_match_above_threshold
+72,service king collision repair south ft worth,fort worth,TX,no_match_above_threshold
+73,spenga prosper,prosper,TX,no_match_above_threshold
+75,ecuadorian chocolate factory,cedar park,TX,no_match_above_threshold
+77,bitezz,,,no_match_above_threshold
+81,bp,clayton,NC,no_match_above_threshold
+103,bitcoin depot,el paso,TX,no_match_above_threshold
+108,econo lodge,mineral wells,TX,no_match_above_threshold
+117,larry h miller toyota scion boulder,boulder,CO,no_match_above_threshold
+120,sir walter chevrolet company,raleigh,NC,no_match_above_threshold
+124,dan stiebel,traverse city,MI,no_match_above_threshold
+130,place landscape architecture,spokane,WA,no_match_above_threshold
+138,dancenter 58195 5 personen ferienhaus in einem ferienpark in glesborg,glesborg,,no_match_above_threshold
+141,,富岡市,,no_match_above_threshold
+156,polansky heating and air,waco,TX,no_match_above_threshold
+159,cumberland farms,east bridgewater,MA,no_match_above_threshold
+170,mod pizza,denver,CO,no_match_above_threshold
+176,satellite tv and sound,spring,TX,no_match_above_threshold
+190,frank webb home,methuen,MA,no_match_above_threshold
+192,mission x escape,durham,NC,no_match_above_threshold
+199,steve & lori robinson realtors,american fork,UT,no_match_above_threshold
+201,dancenter 39879 6 personen ferienhaus in einem ferienpark in hanstholm,hanstholm,,no_match_above_threshold
+204,walmart supercenter,hickory,NC,no_match_above_threshold
+208,southgate ford,southgate,MI,no_match_above_threshold
+213,looking glass beachfront inn,grand haven,MI,no_match_above_threshold
+215,walmart supercenter,plano,TX,no_match_above_threshold
+220,5 11 tactical,charlotte,NC,no_match_above_threshold
+221,discount tire,katy,TX,no_match_above_threshold
+224,link & associates,dallas,TX,no_match_above_threshold
+234,olive garden,midland,MI,no_match_above_threshold
+239,cpr cell phone repair lubbock,lubbock,TX,no_match_above_threshold
+241,body & brain yoga tai chi,missouri city,TX,no_match_above_threshold
+244,storquest self storage,richmond,TX,no_match_above_threshold
+265,castle at princeville,princeville,HI,no_match_above_threshold
+267,nordstrom downtown seattle,seattle,WA,no_match_above_threshold
+274,enterprise rent-a-car,marysville,WA,no_match_above_threshold
+296,benchley's amish furniture & gifts,clare,MI,no_match_above_threshold
+298,samantha grundemann pa-c,marshall,MI,no_match_above_threshold
+311,bacaro kitchen & wine bar,houston,TX,no_match_above_threshold
+314,atria grapevine,grapevine,TX,no_match_above_threshold
+321,rally house,dallas,TX,no_match_above_threshold
+325,13214343,east palo alto,CA,no_match_above_threshold
+328,one way heating and cooling,horizon city,TX,no_match_above_threshold
+331,mustang disaster cleanup,harrisburg,SD,no_match_above_threshold
+350,dollar tree,harlingen,TX,no_match_above_threshold
+355,subway,eagle,CO,no_match_above_threshold
+356,hear more associates,lexington,MA,no_match_above_threshold
+365,je carriers,raleigh,NC,no_match_above_threshold
+369,collins neil p dds,kerrville,TX,no_match_above_threshold
+382,houston methodist primary care group,rosenberg,TX,no_match_above_threshold
+384,university rental,nacogdoches,TX,no_match_above_threshold
+407,pooches parlor,portland,MI,no_match_above_threshold
+415,sierra restoration,smithfield,UT,no_match_above_threshold
+425,,江東区,,no_match_above_threshold
+429,punkt sprzeda y plus i polsat box,wągrowiec,,no_match_above_threshold
+433,walmart,mineral wells,TX,no_match_above_threshold
+448,just law,salt lake city,UT,no_match_above_threshold
+453,viva mitsubishi,el paso,TX,no_match_above_threshold
+458,economy fence center,tacoma,WA,no_match_above_threshold
+473,,熊本市中央区,,no_match_above_threshold
+476,labcorp,greenville,TX,no_match_above_threshold
+490,mill at first hill,seattle,WA,no_match_above_threshold
+506,union breast surgery specialists,monroe,NC,no_match_above_threshold
+507,interstate all battery center,woburn,MA,no_match_above_threshold
+513,beemer & mumma p s,spokane,WA,no_match_above_threshold
+520,fountain court senior living,maple valley,WA,no_match_above_threshold
+525,sterling mccall ford,houston,TX,no_match_above_threshold
+530,oxford glen memory care at sachse,sachse,TX,no_match_above_threshold
+531,publix super market at first flight square,kill devil hills,NC,no_match_above_threshold
+539,metro by t-mobile,brownsville,TX,no_match_above_threshold
+541,batteries plus bulbs,weaverville,NC,no_match_above_threshold
+549,crystal flash,hamilton,MI,no_match_above_threshold
+551,walmart,belton,TX,no_match_above_threshold
+552,dr asmit mansukhlal kanasagara- general practitioner,jamjodhpur,GUJARAT,no_match_above_threshold
+561,elements massage,cary,NC,no_match_above_threshold
+566,norris chiropractic and wellness center,littleton,CO,no_match_above_threshold
+569,m street,seattle,WA,no_match_above_threshold
+574,subway,raleigh,NC,no_match_above_threshold
+588,dd's discounts,garland,TX,no_match_above_threshold
+591,huntington bank,broomfield,CO,no_match_above_threshold
+598,family fare supermarket,grand rapids,MI,no_match_above_threshold
+610,jefferson bank sunset ridge,san antonio,TX,no_match_above_threshold
+615,libertyx bitcoin atm,bee cave,TX,no_match_above_threshold
+616,culligan water conditioning of sturgis mi,sturgis,MI,no_match_above_threshold
+619,european motor cars,fort collins,CO,no_match_above_threshold
+623,yard,mio,MI,no_match_above_threshold
+626,,札幌市白石区,,no_match_above_threshold
+629,apollo pharmacy sanivarapupeta village eluru,sanivarapupeta,ANDHRA PRADESH,no_match_above_threshold
+632,cricket wireless authorized retailer,houston,TX,no_match_above_threshold
+638,walmart,amarillo,TX,no_match_above_threshold
+646,kfc,des moines,WA,no_match_above_threshold
+654,love's rv hookup,winona,TX,no_match_above_threshold
+655,home depot,helena,MT,no_match_above_threshold
+657,dancenter 16792 6 personen ferienhaus in einem ferienpark in ringk bing,ringkøbing,,no_match_above_threshold
+672,en-spire nutrition,centennial,CO,no_match_above_threshold
+679,itto,足柄上郡大井町,,no_match_above_threshold
+684,,huizhou,,no_match_above_threshold
+685,hibbett sports,mt. pleasant,TX,no_match_above_threshold
+691,lgi homes - homestead estates,elgin,TX,no_match_above_threshold
+695,greensboro tire & auto,greensboro,NC,no_match_above_threshold
+701,fullerton tool company,saginaw,MI,no_match_above_threshold
+709,mountain wellness dentistry,monument,CO,no_match_above_threshold
+710,huffines kia mckinney service,mckinney,TX,no_match_above_threshold
+716,fishlake lumber company,beaver,UT,no_match_above_threshold
+717,walmart supercenter,dallas,TX,no_match_above_threshold
+728,sportchassis featherlite trailers of texas,conroe,TX,no_match_above_threshold
+731,advance auto parts,raleigh,NC,no_match_above_threshold
+733,boston's restaurant & sports bar,shelby twp,MI,no_match_above_threshold
+736,olympia gymnastics & cheer,san antonio,TX,no_match_above_threshold
+737,foemmel fine homes,hopkinton,MA,no_match_above_threshold
+749,zumiez,spokane,WA,no_match_above_threshold
+752,houston methodist emergency care center at kirby,houston,TX,no_match_above_threshold
+753,,,大阪府,no_match_above_threshold
+761,apollo machine tool services,arlington,TX,no_match_above_threshold
+764,united promotions,charlotte,NC,no_match_above_threshold
+767,brilliant earth,boston,MA,no_match_above_threshold
+783,salt room perth,perth,WA,no_match_above_threshold
+785,strawberry fields restaurant,new baltimore,MI,no_match_above_threshold
+789,oak hill academy,dallas,TX,no_match_above_threshold
+791,waxahachie ford collision,waxahachie,TX,no_match_above_threshold
+797,service department ken garff honda of orem,orem,UT,no_match_above_threshold
+800,murphy usa 6583,paris,TX,no_match_above_threshold
+807,chick-fil-a grand parkway north,spring,TX,no_match_above_threshold
+810,u-haul neighborhood dealer,kannapolis,NC,no_match_above_threshold
+815,sam's xpress car wash,denver,NC,no_match_above_threshold
+825,smashburger,colorado springs,CO,no_match_above_threshold
+833,promise insurance agency,concord,NC,no_match_above_threshold
+840,ichiro clinics peak performance integrated medicine north office,grand rapids,MI,no_match_above_threshold
+841,pharmacare drugs pharmacy,ypsilanti twp,MI,no_match_above_threshold
+853,subway,aberdeen,SD,no_match_above_threshold
+856,ways2well,houston,TX,no_match_above_threshold
+880,kneaders bakery & cafe,st george,UT,no_match_above_threshold
+887,titan factory direct,midland,TX,no_match_above_threshold
+900,shady's burgers & brewhaha,dallas,TX,no_match_above_threshold
+904,save-a-lot,pueblo,CO,no_match_above_threshold
+911,aspen grove - kitchen & bath,frisco,CO,no_match_above_threshold
+917,houston methodist emergency care center in sienna plantation,missouri city,TX,no_match_above_threshold
+921,imlay city ford,imlay city,MI,no_match_above_threshold
+935,elk river medical,banner elk,NC,no_match_above_threshold
+936,,yongsan district,,no_match_above_threshold
+951,dancenter 39892 6 personen ferienhaus in einem ferienpark in hanstholm,hanstholm,,no_match_above_threshold
+961,chisolm trace,san antonio,TX,no_match_above_threshold
+977,evergreen middle school,redmond,WA,no_match_above_threshold
+981,athleta,asheville,NC,no_match_above_threshold
+984,manpower,charlotte,NC,no_match_above_threshold
+986,13214343,east palo alto,CA,no_match_above_threshold
+996,chick-fil-a,keller,TX,no_match_above_threshold
+999,walmart,aurora,CO,no_match_above_threshold
+1001,,広島市,広島県,no_match_above_threshold
+1011,carlos alberto hair stylist,,,no_match_above_threshold
+1014,di hekimi g lden ege,,,no_match_above_threshold
+1016,usaa atm,universal city,TX,no_match_above_threshold
+1040,craig bagley,weatherford,TX,no_match_above_threshold
+1045,subway,kaneohe,HI,no_match_above_threshold
+1050,la riviera,,,no_match_above_threshold
+1051,coin cloud dcm,amarillo,TX,no_match_above_threshold
+1053,coinstar kiosk bitcoin atm,greensboro,NC,no_match_above_threshold
+1059,,,,no_match_above_threshold
+1065,,豊岡市,,no_match_above_threshold
+1066,law office of lynnmarie johnson,flint,MI,no_match_above_threshold
+1093,,山形市,,no_match_above_threshold
+1095,,nakhon pathom,,no_match_above_threshold
+1102,,寝屋川市,,no_match_above_threshold
+1109,,,,no_match_above_threshold
+1110,,,,no_match_above_threshold
+1112,a1 dental,ogden,UT,no_match_above_threshold
+1113,,,,no_match_above_threshold
+1117,,千代田区,,no_match_above_threshold
+1118,,,,no_match_above_threshold
+1120,,,,no_match_above_threshold
+1123,moana,宮古島市,,no_match_above_threshold
+1127,,suphan buri,,no_match_above_threshold
+1131,west texas lifestyle & rehab,denver city,TX,no_match_above_threshold
+1138,hwv hanseatische wirtschafts- und vertriebsgesellschaft f r rztebedarf r blome gmbh,bremen,,no_match_above_threshold
+1141,jard n privado,,,no_match_above_threshold
+1142,k c,,,no_match_above_threshold
+1149,,所沢市,,no_match_above_threshold
+1150,vavavooom,asheville,NC,no_match_above_threshold
+1151,,名古屋市中村区,,no_match_above_threshold
+1172,,,,no_match_above_threshold
+1173,,,,no_match_above_threshold
+1176,istanbul k ds hewler erbil,,,no_match_above_threshold
+1177,gary ritter violin,northfield twp,MI,no_match_above_threshold
+1196,,,,no_match_above_threshold
+1211,my econo's 3995 optical,windcrest,TX,no_match_above_threshold
+1213,,,,no_match_above_threshold
+1219,,栃木市,,no_match_above_threshold
+1227,logop die im rztehaus achtal birgit brinkmann & andrea dietz,baienfurt,,no_match_above_threshold
+1231,baylor scott & white primary care prosper,prosper,TX,no_match_above_threshold
+1232,,,,no_match_above_threshold
+1237,,福岡市博多区,,no_match_above_threshold
+1239,first hawaiian bank atm,keaau,HI,no_match_above_threshold
+1241,ubs vila elvira,,,no_match_above_threshold
+1243,,,,no_match_above_threshold
+1245,elks lodge 1709,shelby,NC,no_match_above_threshold
+1261,,那覇市,,no_match_above_threshold
+1265,,札幌市手稲区,,no_match_above_threshold
+1266,la gran carpa del chavo,,,no_match_above_threshold
+1283,coinstar kiosk - bitcoin atm,chicopee,MA,no_match_above_threshold
+1286,,,,no_match_above_threshold
+1294,highway 93 rv,victor,MT,no_match_above_threshold
+1304,,,,no_match_above_threshold
+1305,,一宮市,,no_match_above_threshold
+1326,studio dentistico dr tonti,schio,VI,no_match_above_threshold
+1328,starbucks,denver,CO,no_match_above_threshold
+1332,pickleball406,hamilton,MT,no_match_above_threshold
+1338,patchara hotel,,,no_match_above_threshold
+1345,,,,no_match_above_threshold
+1348,poradnia medycyny pracy je yce,poznań,30,no_match_above_threshold
+1349,steak neua nomyai,,,no_match_above_threshold
+1356,,,,no_match_above_threshold
+1357,emmanuel church of god in christ,houston,TX,no_match_above_threshold
+1359,,,,no_match_above_threshold
+1363,,,,no_match_above_threshold
+1364,,,,no_match_above_threshold
+1365,,,,no_match_above_threshold
+1366,3,khon kaen,,no_match_above_threshold
+1370,,,,no_match_above_threshold
+1373,,,,no_match_above_threshold
+1374,uluer gen ya am merkezi,,,no_match_above_threshold
+1375,delmoro supermercados,sorriso,MT,no_match_above_threshold
+1389,,前橋市,,no_match_above_threshold
+1393,,,,no_match_above_threshold
+1396,,鹿児島市,,no_match_above_threshold
+1401,cashpoints atm,carolina beach,NC,no_match_above_threshold
+1402,,,,no_match_above_threshold
+1404,zel zlem zel e itim ve rehabilitasyon merkezi,,,no_match_above_threshold
+1406,pizzaria cheff,cuiabá,MT,no_match_above_threshold
+1411,,yachiyo-shi,12,no_match_above_threshold
+1412,cirocco,αθήνα,,no_match_above_threshold
+1417,,,,no_match_above_threshold
+1424,,,,no_match_above_threshold
+1425,,shimada-shi,22,no_match_above_threshold
+1429,,一宮市,,no_match_above_threshold
+1430,-,,,no_match_above_threshold
+1435,fifth third bank,owosso,MI,no_match_above_threshold
+1437,bay city seventh-day adventist church,bangor twp,MI,no_match_above_threshold
+1440,,,,no_match_above_threshold
+1445,evangelische kirche strinz-trinitatis - kirchengemeinde strinz-trinitatis limbach-wallbach,hünstetten,HESSE,no_match_above_threshold
+1448,,,,no_match_above_threshold
+1453,- -,横浜市,神奈川県,no_match_above_threshold
+1460,,蒲郡市,愛知県,no_match_above_threshold
+1461,,,,no_match_above_threshold
+1465,palio s pizza cafe midlothian,midlothian,TX,no_match_above_threshold
+1466,,常滑市,,no_match_above_threshold
+1468,,,,no_match_above_threshold
+1476,,旭川市,,no_match_above_threshold
+1478,barra do fortim,,,no_match_above_threshold
+1479,,摂津市,,no_match_above_threshold
+1480,,四万十市,,no_match_above_threshold
+1485,,千代田区,,no_match_above_threshold
+1491,,,,no_match_above_threshold
+1492,,鳥取市,,no_match_above_threshold
+1494,dollar general,broadway,NC,no_match_above_threshold
+1496,by,,,no_match_above_threshold
+1500,,渋谷区,,no_match_above_threshold
+1506,,,,no_match_above_threshold
+1510,,bangkok,,no_match_above_threshold
+1512,t j's gymsports,rockingham,WA,no_match_above_threshold
+1513,,,,no_match_above_threshold
+1515,,,,no_match_above_threshold
+1520,,新宿区,東京都,no_match_above_threshold
+1521,,徳島市,,no_match_above_threshold
+1529,dover power,concord,NC,no_match_above_threshold
+1532,budget restaurant supply,houston,TX,no_match_above_threshold
+1535,,上尾市,,no_match_above_threshold
+1536,,,,no_match_above_threshold
+1542,,,,no_match_above_threshold
+1546,pzw press- und zerspanungstechnik witten gmbh &,witten,,no_match_above_threshold
+1547,,神戸市中央区,,no_match_above_threshold
+1552,,,,no_match_above_threshold
+1553,,,,no_match_above_threshold
+1554,,москва,,no_match_above_threshold
+1555,escuela secundaria diurna 171 - frida kahlo,mexico city,,no_match_above_threshold
+1571,,浜松市,静岡県,no_match_above_threshold
+1572,,,,no_match_above_threshold
+1573,,熊谷市,,no_match_above_threshold
+1579,,,,no_match_above_threshold
+1599,,,,no_match_above_threshold
+1600,,出雲市,,no_match_above_threshold
+1610,9,москва,,no_match_above_threshold
+1611,,kobe-shi,28,no_match_above_threshold
+1619,,,,no_match_above_threshold
+1624,concord foot & ankle center,concord,MA,no_match_above_threshold
+1626,,,,no_match_above_threshold
+1635,,,,no_match_above_threshold
+1643,,大阪市大正区,,no_match_above_threshold
+1649,fitness,,,no_match_above_threshold
+1653,,,,no_match_above_threshold
+1657,ecoatm,fort worth,TX,no_match_above_threshold
+1658,davita cornerstone at home,southfield,MI,no_match_above_threshold
+1668,clarkston high school natatorium,clarkston,MI,no_match_above_threshold
+1675,,lop buri,,no_match_above_threshold
+1684,,,,no_match_above_threshold
+1687,,刈谷市,,no_match_above_threshold
+1688,,,,no_match_above_threshold
+1690,,富士宮市,静岡県,no_match_above_threshold
+1698,,和気郡和気町,,no_match_above_threshold
+1702,,うきは市,,no_match_above_threshold
+1707,,nagoya-shi,23,no_match_above_threshold
+1719,,,,no_match_above_threshold
+1720,moshi coffeebar,,,no_match_above_threshold
+1722,,横浜市中区,,no_match_above_threshold
+1730,,,,no_match_above_threshold
+1733,,,,no_match_above_threshold
+1737,,尾道市,,no_match_above_threshold
+1741,,浜松市,静岡県,no_match_above_threshold
+1751,,,,no_match_above_threshold
+1753,creation organics,shelton,WA,no_match_above_threshold
+1755,,豊後大野市,,no_match_above_threshold
+1762,,,,no_match_above_threshold
+1772,,บางใหญ่,,no_match_above_threshold
+1778,ecoatm,west jordan,UT,no_match_above_threshold
+1785,7-eleven,prosper,TX,no_match_above_threshold
+1787,,高島市,,no_match_above_threshold
+1795,junior bruins hockey camps,marlborough,MA,no_match_above_threshold
+1797,,大網白里市,千葉県,no_match_above_threshold
+1803,freddy's frozen custard & steakburgers spring tx kuykendahl rd,spring,TX,no_match_above_threshold
+1805,maida clark law firm p c,beaumont,TX,no_match_above_threshold
+1809,,,,no_match_above_threshold
+1811,,photharam,,no_match_above_threshold
+1812,,,,no_match_above_threshold
+1819,,大阪市西区,,no_match_above_threshold
+1823,pride,栗東市,滋賀県,no_match_above_threshold
+1831,,,,no_match_above_threshold
+1837,alimentare massas e congelados especiais,cuiabá,MT,no_match_above_threshold
+1843,,,,no_match_above_threshold
+1844,,,,no_match_above_threshold
+1847,24h artigian riparazione fabbri - idraulici - elettricisti,alpago,BL,no_match_above_threshold
+1848,,栃木市,,no_match_above_threshold
+1850,starbucks,san antonio,TX,no_match_above_threshold
+1852,,,,no_match_above_threshold
+1854,international flavors and fragrances,carrollton,TX,no_match_above_threshold
+1860,,,,no_match_above_threshold
+1865,,いわき市,,no_match_above_threshold
+1867,,いわき市,,no_match_above_threshold
+1871,bah e ehir park 1 evleri,,,no_match_above_threshold
+1876,,,,no_match_above_threshold
+1877,el marlin isla ixtapa,,,no_match_above_threshold
+1878,,,,no_match_above_threshold
+1884,oxxo,gustavo a madero,,no_match_above_threshold
+1915,,,,no_match_above_threshold
+1920,coin cloud dcm,san antonio,TX,no_match_above_threshold
+1922,,loei,,no_match_above_threshold
+1923,handbook,,,no_match_above_threshold
+1925,circo rolex los mochis,,,no_match_above_threshold
+1928,hospital s o domingos,são luís,MA,no_match_above_threshold
+1935,,พระนครศรีอยุธยา,,no_match_above_threshold
+1972,black bear lodge,park city,UT,no_match_above_threshold
+1973,kenos express,denton,TX,no_match_above_threshold
+1975,,,,no_match_above_threshold
+1979,starbucks,seattle,WA,no_match_above_threshold
+1989,,さいたま市,埼玉県,no_match_above_threshold
+1990,bitcoin depot,arlington,TX,no_match_above_threshold

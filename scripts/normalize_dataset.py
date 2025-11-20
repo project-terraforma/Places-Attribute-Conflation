@@ -187,14 +187,22 @@ def normalize_name(name):
     return normalized
 
 # Define helper functions for normalization
-def create_address_dict(street, city, state, postcode):
-    """Create a consolidated address dictionary from normalized components"""
-    return {
-        'address': street if street else '',
-        'city': city if city else '',
-        'state': state if state else '',
-        'postal_code': postcode if postcode else ''
-    }
+def create_address_string(street, city, state, postcode):
+    """Create a single concatenated normalized address string from components"""
+    # Build address parts, filtering out empty strings
+    parts = []
+    
+    if street and street.strip():
+        parts.append(street.strip())
+    if city and city.strip():
+        parts.append(city.strip())
+    if state and state.strip():
+        parts.append(state.strip())
+    if postcode and postcode.strip():
+        parts.append(postcode.strip())
+    
+    # Join with comma and space
+    return ', '.join(parts) if parts else ''
 
 def extract_and_normalize_categories(category_data):
     """Extract and normalize categories from sample_df format"""
@@ -280,15 +288,15 @@ def normalize_sample_dataframe(df, preserve_index=False):
     df['base_address_state_norm'] = df['base_address_state'].apply(normalize_state)
     df['base_address_postcode_norm'] = df['base_address_postcode'].apply(normalize_postcode)
     
-    # Create consolidated address dictionaries
-    df['address_norm'] = df.apply(lambda row: create_address_dict(
+    # Create consolidated address strings (concatenated and normalized)
+    df['address_norm'] = df.apply(lambda row: create_address_string(
         row['address_street_norm'],
         row['address_city_norm'], 
         row['address_state_norm'],
         row['address_postcode_norm']
     ), axis=1)
     
-    df['base_address_norm'] = df.apply(lambda row: create_address_dict(
+    df['base_address_norm'] = df.apply(lambda row: create_address_string(
         row['base_address_street_norm'],
         row['base_address_city_norm'],
         row['base_address_state_norm'], 
@@ -355,8 +363,8 @@ def normalize_categories(categories):
 
 yelp_df['categories_norm'] = yelp_df['categories'].apply(normalize_categories)
 
-# Create consolidated address dictionary for Yelp data
-yelp_df['address_dict_norm'] = yelp_df.apply(lambda row: create_address_dict(
+# Create consolidated address string for Yelp data (concatenated and normalized)
+yelp_df['address_string_norm'] = yelp_df.apply(lambda row: create_address_string(
     row['address_norm'],
     row['city_norm'],
     row['state_norm'],

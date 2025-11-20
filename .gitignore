@@ -3,3 +3,4 @@ env/
 *.tar
 Yelp JSON/
 *.json
+test.ipynb
