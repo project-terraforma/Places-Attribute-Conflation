@@ -3,6 +3,7 @@
 ## Project Overview
 
 **Author:** James Conrad Manlangit
+**Sponsored By:** Overture Maps Foundation
 
 When creating a universal database of locations and businesses, Overture Maps gathers their information from multiple different sources. This introduces the issue of conflicting information from different sources for key location attributes for the same place, such as discrepancies between business names, addresses and categories. This project aims to address this issue by implementing a rule-based conflation algorithm that determines which attributes are more reliable, consistent, and "more correct."
 
